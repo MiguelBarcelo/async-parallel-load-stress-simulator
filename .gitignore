@@ -1,0 +1,39 @@
+# === WINDOWS OS ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# === ECLIPSE IDE ===
+*.launch
+.settings/
+.project
+.classpath
+*.tmp
+*.bak
+*.swp
+*~.nib
+.local-history/
+
+# === JAVA / MAVEN ===
+target/
+bin/
+*.class
+
+# Logs
+*.log
+
+# === SPRING BOOT ===
+*.env
+application.properties
+application.yml
+application-dev.properties
+application-prod.properties
+
+# === GIT ===
+*.orig
+
+# === IDEAS ===
+out/
+*.iml
+.idea/
